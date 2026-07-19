@@ -1,0 +1,5 @@
+# npm — Outdated npm dependencies in the current project, self-sourced from `npm outdated`.
+! npm outdated every 10s
+list .npm
+source .npm { in }
+grid .npm -row 0 -col 0

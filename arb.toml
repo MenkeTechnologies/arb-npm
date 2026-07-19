@@ -1,0 +1,5 @@
+[package]
+name = "npm"
+version = "0.1.0"
+license = "MIT"
+description = "Outdated npm dependencies in the current project"
